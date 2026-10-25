@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+venv/
+.streamlit/secrets.toml
+*.py[cod]
+node_modules/
+dist/
+.env
+frontend/.env
+backend/.env
