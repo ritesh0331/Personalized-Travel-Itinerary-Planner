@@ -2,6 +2,12 @@
 
 A React/Vite travel planner backed by FastAPI. Supabase provides authentication, per-user trip storage, and shared trip collaboration; Groq generates itinerary suggestions by default (Gemini is an optional alternative); Unsplash supplies destination photography. If the selected AI provider or Unsplash is not configured, demo itineraries and visual fallbacks remain available.
 
+# Personalized Travel Itinerary Planner
+
+Plan personalized trips with ...
+
+**Live demo:** https://personalized-travel-itinerary-plann-jet.vercel.app
+
 ## Project layout
 
 ```text
